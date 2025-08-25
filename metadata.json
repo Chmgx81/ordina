@@ -1,0 +1,7 @@
+{
+  "name": "Ordina",
+  "description": "Ordina is a modern, responsive inventory management system for an electronics company. It allows various user roles to manage products, stock, orders, suppliers, and view detailed reports and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
